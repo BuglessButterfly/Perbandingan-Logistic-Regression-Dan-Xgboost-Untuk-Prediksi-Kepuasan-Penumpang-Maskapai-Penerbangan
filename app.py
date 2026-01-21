@@ -1,8 +1,10 @@
-import os
-import numpy as np
+from __future__ import annotations
+
 import pandas as pd
 import streamlit as st
 import joblib
+from pathlib import Path
+from typing import Tuple
 
 # ============================================================
 # Page Config
@@ -69,11 +71,14 @@ CUSTOM_CSS = """
 st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 
 # ============================================================
-# PATH MODEL
+# PATH MODEL (robust for deploy)
 # ============================================================
-BEST_MODEL_PATH   = "outputs/best_model.joblib"
-LOGREG_MODEL_PATH = "outputs/logreg_model.joblib"  # opsional
-XGB_MODEL_PATH    = "outputs/xgb_model.joblib"     # opsional
+BASE_DIR = Path(__file__).resolve().parent
+OUTPUTS_DIR = BASE_DIR / "outputs"
+
+BEST_MODEL_PATH = OUTPUTS_DIR / "best_model.joblib"
+LOGREG_MODEL_PATH = OUTPUTS_DIR / "logreg_model.joblib"  # opsional
+XGB_MODEL_PATH = OUTPUTS_DIR / "xgb_model.joblib"        # opsional
 
 TARGET_COL = "satisfaction"
 DROP_COLS = ["Unnamed: 0"]
@@ -83,7 +88,7 @@ DROP_ID_COLS = ["id", "ID"]  # rekomendasi: jangan ikut diprediksi
 # Helpers
 # -------------------------
 @st.cache_resource
-def load_model(path: str):
+def load_model(path: str | Path):
     return joblib.load(path)
 
 @st.cache_data
@@ -122,7 +127,7 @@ def set_form_from_row(df: pd.DataFrame, feature_cols: list, row_idx: int):
             val = "" if pd.isna(val) else str(val)
         st.session_state[key] = val
 
-def validate_columns_against_model(model, X_input: pd.DataFrame) -> (bool, str):
+def validate_columns_against_model(model, X_input: pd.DataFrame) -> Tuple[bool, str]:
     try:
         _ = model.predict_proba(X_input)
         return True, ""
@@ -152,7 +157,6 @@ st.markdown(
 """,
     unsafe_allow_html=True,
 )
-
 st.write("")
 
 # ============================================================
@@ -163,19 +167,24 @@ st.sidebar.markdown("### 1) Unggah Dataset (CSV)")
 uploaded = st.sidebar.file_uploader("Unggah dataset CSV", type=["csv"])
 
 st.sidebar.markdown("### 2) Model")
-if not os.path.exists(BEST_MODEL_PATH):
+
+if not BEST_MODEL_PATH.exists():
     st.sidebar.error("❌ best_model.joblib tidak ditemukan.")
-    st.sidebar.info("Jalankan notebook sampai bagian joblib dump.")
+    st.sidebar.info("Pastikan file ada di folder outputs/ dan sudah ikut ter-push ke repo.")
     st.stop()
 
+# Load hanya best_model saat startup (wajib)
 best_model = load_model(BEST_MODEL_PATH)
 st.sidebar.success("✅ best_model.joblib dimuat")
 
-logreg_model = load_model(LOGREG_MODEL_PATH) if os.path.exists(LOGREG_MODEL_PATH) else None
-xgb_model    = load_model(XGB_MODEL_PATH)    if os.path.exists(XGB_MODEL_PATH) else None
+# Jangan load LR & XGB saat startup (lebih ringan). Akan di-load saat Prediksi ditekan.
+has_lr_file = LOGREG_MODEL_PATH.exists()
+has_xgb_file = XGB_MODEL_PATH.exists()
 
-if logreg_model is None or xgb_model is None:
+if not has_lr_file or not has_xgb_file:
     st.sidebar.info("Perbandingan LR vs XGB aktif jika file model LR dan XGB tersedia.")
+else:
+    st.sidebar.success("✅ File LR & XGB terdeteksi (akan di-load saat prediksi)")
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("### ℹ️ Tips")
@@ -389,7 +398,9 @@ with tab_main:
             else:
                 st.error("❌ Prediksi SALAH (tidak sesuai label asli).")
 
-        # Model comparison
+        # ====================================================
+        # Model comparison (LR vs XGB) - lazy load here
+        # ====================================================
         st.markdown("---")
         st.markdown("### 🔁 Perbandingan Model (Jika tersedia)")
         cL, cR = st.columns(2)
@@ -411,6 +422,10 @@ with tab_main:
                 st.write(f"**Label:** {label_id_to_display(label_m)}")
                 st.write(f"**Proba puas:** {proba_m:.4f}")
                 st.progress(min(max(proba_m, 0.0), 1.0))
+
+        # Lazy-load only when needed (button pressed)
+        logreg_model = load_model(LOGREG_MODEL_PATH) if has_lr_file else None
+        xgb_model = load_model(XGB_MODEL_PATH) if has_xgb_file else None
 
         render_model_box(cL, "Regresi Logistik", logreg_model)
         render_model_box(cR, "XGBoost", xgb_model)
