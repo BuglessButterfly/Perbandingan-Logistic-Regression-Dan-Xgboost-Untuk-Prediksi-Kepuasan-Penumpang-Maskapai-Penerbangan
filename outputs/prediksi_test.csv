@@ -1,0 +1,1001 @@
+satisfaction,pred_label,proba_satisfied,pred_bin
+satisfied,satisfied,0.9967939,1
+satisfied,satisfied,0.9925808,1
+neutral or dissatisfied,neutral or dissatisfied,0.0018471183,0
+satisfied,satisfied,0.8529762,1
+satisfied,neutral or dissatisfied,0.08682916,0
+satisfied,satisfied,0.85697055,1
+satisfied,satisfied,0.99722606,1
+satisfied,satisfied,0.99726033,1
+satisfied,satisfied,0.9968976,1
+satisfied,satisfied,0.9973214,1
+satisfied,satisfied,0.38184378,1
+neutral or dissatisfied,neutral or dissatisfied,0.2222101,0
+satisfied,satisfied,0.9998783,1
+satisfied,satisfied,0.9988115,1
+satisfied,satisfied,0.9988794,1
+neutral or dissatisfied,neutral or dissatisfied,0.022193916,0
+neutral or dissatisfied,neutral or dissatisfied,0.029844252,0
+satisfied,satisfied,0.99801874,1
+neutral or dissatisfied,neutral or dissatisfied,0.004992139,0
+satisfied,satisfied,0.99975735,1
+satisfied,satisfied,0.9989059,1
+neutral or dissatisfied,neutral or dissatisfied,0.002612219,0
+neutral or dissatisfied,neutral or dissatisfied,0.0010330348,0
+satisfied,satisfied,0.9784641,1
+neutral or dissatisfied,satisfied,0.7205022,1
+neutral or dissatisfied,neutral or dissatisfied,0.0076131504,0
+satisfied,satisfied,0.98434365,1
+satisfied,neutral or dissatisfied,0.23161699,0
+satisfied,satisfied,0.9997627,1
+neutral or dissatisfied,satisfied,0.96367836,1
+neutral or dissatisfied,neutral or dissatisfied,0.0051641627,0
+satisfied,satisfied,0.5928601,1
+neutral or dissatisfied,neutral or dissatisfied,0.008133717,0
+neutral or dissatisfied,neutral or dissatisfied,0.02578829,0
+satisfied,satisfied,0.9986022,1
+neutral or dissatisfied,neutral or dissatisfied,0.00011349198,0
+satisfied,satisfied,0.9950205,1
+satisfied,satisfied,0.9992137,1
+neutral or dissatisfied,neutral or dissatisfied,0.23543957,0
+neutral or dissatisfied,neutral or dissatisfied,0.0031160451,0
+neutral or dissatisfied,neutral or dissatisfied,0.14324623,0
+satisfied,neutral or dissatisfied,0.026538098,0
+neutral or dissatisfied,neutral or dissatisfied,0.083587505,0
+satisfied,satisfied,0.9969797,1
+neutral or dissatisfied,neutral or dissatisfied,0.017317558,0
+satisfied,satisfied,0.99210805,1
+satisfied,satisfied,0.9990435,1
+neutral or dissatisfied,neutral or dissatisfied,0.0012868189,0
+satisfied,satisfied,0.99874544,1
+neutral or dissatisfied,neutral or dissatisfied,0.0030441338,0
+neutral or dissatisfied,neutral or dissatisfied,0.019106295,0
+satisfied,neutral or dissatisfied,0.10257129,0
+satisfied,satisfied,0.8143697,1
+neutral or dissatisfied,neutral or dissatisfied,0.1263101,0
+satisfied,satisfied,0.9987519,1
+neutral or dissatisfied,neutral or dissatisfied,0.004207367,0
+satisfied,satisfied,0.9891404,1
+neutral or dissatisfied,neutral or dissatisfied,0.000705046,0
+neutral or dissatisfied,neutral or dissatisfied,0.0015341955,0
+neutral or dissatisfied,neutral or dissatisfied,0.002773192,0
+satisfied,satisfied,0.9968827,1
+neutral or dissatisfied,neutral or dissatisfied,0.0047936337,0
+neutral or dissatisfied,neutral or dissatisfied,0.0010397859,0
+satisfied,satisfied,0.4593933,1
+satisfied,satisfied,0.7371046,1
+neutral or dissatisfied,neutral or dissatisfied,0.030424846,0
+neutral or dissatisfied,neutral or dissatisfied,0.2219892,0
+neutral or dissatisfied,neutral or dissatisfied,0.008620407,0
+satisfied,satisfied,0.9979395,1
+satisfied,satisfied,0.97458446,1
+neutral or dissatisfied,neutral or dissatisfied,0.00555033,0
+neutral or dissatisfied,satisfied,0.49357134,1
+neutral or dissatisfied,neutral or dissatisfied,0.0030189038,0
+satisfied,satisfied,0.991335,1
+neutral or dissatisfied,neutral or dissatisfied,0.0074537015,0
+neutral or dissatisfied,neutral or dissatisfied,0.009336676,0
+neutral or dissatisfied,neutral or dissatisfied,0.06706999,0
+neutral or dissatisfied,neutral or dissatisfied,0.014121146,0
+neutral or dissatisfied,neutral or dissatisfied,0.08454899,0
+neutral or dissatisfied,neutral or dissatisfied,0.0003765476,0
+satisfied,satisfied,0.9635329,1
+neutral or dissatisfied,neutral or dissatisfied,0.0038350804,0
+satisfied,satisfied,0.99829394,1
+neutral or dissatisfied,neutral or dissatisfied,0.015763506,0
+neutral or dissatisfied,neutral or dissatisfied,0.0248767,0
+neutral or dissatisfied,neutral or dissatisfied,0.0032688084,0
+neutral or dissatisfied,neutral or dissatisfied,0.00035522197,0
+satisfied,satisfied,0.99593,1
+neutral or dissatisfied,neutral or dissatisfied,0.00038965867,0
+neutral or dissatisfied,satisfied,0.465824,1
+satisfied,satisfied,0.999678,1
+neutral or dissatisfied,neutral or dissatisfied,0.039808534,0
+satisfied,satisfied,0.9919552,1
+neutral or dissatisfied,neutral or dissatisfied,0.0036907555,0
+satisfied,satisfied,0.9978619,1
+neutral or dissatisfied,neutral or dissatisfied,0.0063281604,0
+neutral or dissatisfied,neutral or dissatisfied,0.0036099453,0
+satisfied,satisfied,0.97730166,1
+neutral or dissatisfied,neutral or dissatisfied,0.0013858244,0
+neutral or dissatisfied,neutral or dissatisfied,0.16305931,0
+neutral or dissatisfied,neutral or dissatisfied,0.012118314,0
+neutral or dissatisfied,neutral or dissatisfied,0.027416969,0
+satisfied,neutral or dissatisfied,0.04675284,0
+neutral or dissatisfied,neutral or dissatisfied,0.008845161,0
+satisfied,satisfied,0.99755824,1
+satisfied,satisfied,0.9875624,1
+satisfied,satisfied,0.99156356,1
+neutral or dissatisfied,neutral or dissatisfied,0.00046168306,0
+neutral or dissatisfied,neutral or dissatisfied,0.0007244211,0
+satisfied,satisfied,0.99968326,1
+neutral or dissatisfied,satisfied,0.80280566,1
+neutral or dissatisfied,neutral or dissatisfied,0.00036200308,0
+satisfied,satisfied,0.99961984,1
+neutral or dissatisfied,neutral or dissatisfied,0.009505263,0
+neutral or dissatisfied,neutral or dissatisfied,0.00041118904,0
+neutral or dissatisfied,neutral or dissatisfied,0.00075656624,0
+neutral or dissatisfied,neutral or dissatisfied,0.0061528343,0
+satisfied,satisfied,0.9992231,1
+neutral or dissatisfied,neutral or dissatisfied,0.0052797785,0
+satisfied,satisfied,0.9915651,1
+satisfied,satisfied,0.9937689,1
+satisfied,satisfied,0.999775,1
+satisfied,satisfied,0.9889438,1
+neutral or dissatisfied,neutral or dissatisfied,0.0019525227,0
+neutral or dissatisfied,neutral or dissatisfied,0.0035797039,0
+neutral or dissatisfied,neutral or dissatisfied,0.0002508455,0
+neutral or dissatisfied,neutral or dissatisfied,0.002883663,0
+neutral or dissatisfied,neutral or dissatisfied,0.049452953,0
+satisfied,satisfied,0.2503523,1
+satisfied,satisfied,0.9969488,1
+neutral or dissatisfied,neutral or dissatisfied,0.0007559976,0
+neutral or dissatisfied,neutral or dissatisfied,0.0008513432,0
+neutral or dissatisfied,neutral or dissatisfied,0.0045435834,0
+neutral or dissatisfied,neutral or dissatisfied,0.23163542,0
+satisfied,satisfied,0.9996443,1
+neutral or dissatisfied,neutral or dissatisfied,0.00059998117,0
+neutral or dissatisfied,neutral or dissatisfied,0.017078696,0
+satisfied,satisfied,0.9996586,1
+neutral or dissatisfied,neutral or dissatisfied,0.001620154,0
+neutral or dissatisfied,neutral or dissatisfied,0.103914574,0
+neutral or dissatisfied,neutral or dissatisfied,0.034848124,0
+satisfied,satisfied,0.99080503,1
+neutral or dissatisfied,neutral or dissatisfied,0.0037882763,0
+satisfied,satisfied,0.9989496,1
+satisfied,satisfied,0.626157,1
+neutral or dissatisfied,neutral or dissatisfied,0.0056318855,0
+satisfied,satisfied,0.9991007,1
+satisfied,satisfied,0.9964276,1
+neutral or dissatisfied,neutral or dissatisfied,0.0010686524,0
+satisfied,satisfied,0.5873626,1
+satisfied,satisfied,0.99108994,1
+satisfied,satisfied,0.81535596,1
+satisfied,satisfied,0.82374316,1
+satisfied,neutral or dissatisfied,0.114761494,0
+satisfied,satisfied,0.9994165,1
+satisfied,satisfied,0.8362958,1
+neutral or dissatisfied,neutral or dissatisfied,0.009190042,0
+neutral or dissatisfied,satisfied,0.24629903,1
+satisfied,satisfied,0.9987735,1
+satisfied,satisfied,0.68007135,1
+satisfied,satisfied,0.99986446,1
+satisfied,neutral or dissatisfied,0.059971295,0
+neutral or dissatisfied,neutral or dissatisfied,0.001419124,0
+satisfied,satisfied,0.99815315,1
+neutral or dissatisfied,neutral or dissatisfied,0.00011104172,0
+satisfied,satisfied,0.9997168,1
+neutral or dissatisfied,neutral or dissatisfied,0.033089243,0
+neutral or dissatisfied,neutral or dissatisfied,0.0005498339,0
+satisfied,satisfied,0.9991635,1
+neutral or dissatisfied,satisfied,0.4870816,1
+satisfied,satisfied,0.98070335,1
+satisfied,satisfied,0.4507761,1
+neutral or dissatisfied,neutral or dissatisfied,0.009242845,0
+satisfied,satisfied,0.99865735,1
+satisfied,satisfied,0.9933188,1
+neutral or dissatisfied,neutral or dissatisfied,0.0003105575,0
+satisfied,satisfied,0.99077004,1
+neutral or dissatisfied,neutral or dissatisfied,0.014070108,0
+neutral or dissatisfied,neutral or dissatisfied,0.001503031,0
+neutral or dissatisfied,neutral or dissatisfied,0.018171087,0
+neutral or dissatisfied,satisfied,0.2725114,1
+satisfied,neutral or dissatisfied,0.018201277,0
+neutral or dissatisfied,neutral or dissatisfied,0.11204021,0
+neutral or dissatisfied,neutral or dissatisfied,0.0019877488,0
+satisfied,satisfied,0.9721658,1
+neutral or dissatisfied,neutral or dissatisfied,0.0047766864,0
+neutral or dissatisfied,neutral or dissatisfied,0.005981736,0
+neutral or dissatisfied,neutral or dissatisfied,0.10939322,0
+satisfied,satisfied,0.9948968,1
+neutral or dissatisfied,neutral or dissatisfied,0.0018604926,0
+satisfied,satisfied,0.99993336,1
+satisfied,satisfied,0.9993124,1
+neutral or dissatisfied,neutral or dissatisfied,0.007064892,0
+satisfied,satisfied,0.99196905,1
+neutral or dissatisfied,neutral or dissatisfied,0.0056980317,0
+neutral or dissatisfied,neutral or dissatisfied,0.0011628197,0
+satisfied,satisfied,0.5648332,1
+neutral or dissatisfied,neutral or dissatisfied,0.078563415,0
+satisfied,satisfied,0.929774,1
+satisfied,satisfied,0.9841611,1
+neutral or dissatisfied,neutral or dissatisfied,0.0035617272,0
+satisfied,satisfied,0.9973928,1
+neutral or dissatisfied,neutral or dissatisfied,0.078838386,0
+satisfied,satisfied,0.7159591,1
+satisfied,satisfied,0.57290983,1
+neutral or dissatisfied,neutral or dissatisfied,0.0034412798,0
+neutral or dissatisfied,neutral or dissatisfied,0.008342936,0
+satisfied,satisfied,0.9986307,1
+neutral or dissatisfied,neutral or dissatisfied,0.003373116,0
+satisfied,neutral or dissatisfied,0.19043091,0
+satisfied,satisfied,0.97218466,1
+satisfied,satisfied,0.8886178,1
+satisfied,satisfied,0.9284757,1
+satisfied,satisfied,0.98597056,1
+neutral or dissatisfied,satisfied,0.5650656,1
+neutral or dissatisfied,satisfied,0.91934264,1
+satisfied,satisfied,0.97212887,1
+satisfied,satisfied,0.9180611,1
+neutral or dissatisfied,satisfied,0.5351728,1
+neutral or dissatisfied,neutral or dissatisfied,0.012358552,0
+neutral or dissatisfied,neutral or dissatisfied,0.00067795365,0
+neutral or dissatisfied,neutral or dissatisfied,0.002376537,0
+satisfied,neutral or dissatisfied,0.16684544,0
+satisfied,satisfied,0.9995357,1
+neutral or dissatisfied,neutral or dissatisfied,0.00037605147,0
+neutral or dissatisfied,neutral or dissatisfied,0.0012398876,0
+neutral or dissatisfied,neutral or dissatisfied,0.015597171,0
+satisfied,satisfied,0.979081,1
+neutral or dissatisfied,neutral or dissatisfied,0.0032084696,0
+satisfied,satisfied,0.9995003,1
+neutral or dissatisfied,satisfied,0.55128765,1
+satisfied,neutral or dissatisfied,0.0029835238,0
+satisfied,satisfied,0.9402664,1
+neutral or dissatisfied,neutral or dissatisfied,0.1999981,0
+neutral or dissatisfied,neutral or dissatisfied,0.011519893,0
+neutral or dissatisfied,neutral or dissatisfied,0.09084592,0
+neutral or dissatisfied,neutral or dissatisfied,0.016094718,0
+neutral or dissatisfied,neutral or dissatisfied,0.09256553,0
+neutral or dissatisfied,satisfied,0.7124597,1
+satisfied,satisfied,0.99589854,1
+satisfied,satisfied,0.9998579,1
+neutral or dissatisfied,neutral or dissatisfied,0.0016123012,0
+neutral or dissatisfied,neutral or dissatisfied,0.0055304784,0
+neutral or dissatisfied,satisfied,0.3928701,1
+neutral or dissatisfied,neutral or dissatisfied,0.0019501575,0
+neutral or dissatisfied,neutral or dissatisfied,0.004787414,0
+neutral or dissatisfied,neutral or dissatisfied,0.029356642,0
+satisfied,satisfied,0.57213026,1
+neutral or dissatisfied,neutral or dissatisfied,0.055309955,0
+satisfied,satisfied,0.9996049,1
+satisfied,satisfied,0.95267755,1
+satisfied,satisfied,0.9972696,1
+satisfied,satisfied,0.99891293,1
+satisfied,satisfied,0.91604763,1
+satisfied,satisfied,0.4330991,1
+neutral or dissatisfied,neutral or dissatisfied,0.0030613933,0
+neutral or dissatisfied,neutral or dissatisfied,0.0015974835,0
+neutral or dissatisfied,neutral or dissatisfied,0.0010180323,0
+neutral or dissatisfied,neutral or dissatisfied,0.0013644574,0
+satisfied,satisfied,0.91245294,1
+neutral or dissatisfied,neutral or dissatisfied,0.009925326,0
+satisfied,satisfied,0.9956623,1
+neutral or dissatisfied,neutral or dissatisfied,0.0008514337,0
+neutral or dissatisfied,neutral or dissatisfied,0.005121046,0
+satisfied,satisfied,0.99896586,1
+neutral or dissatisfied,neutral or dissatisfied,0.0032465423,0
+satisfied,satisfied,0.9998994,1
+neutral or dissatisfied,neutral or dissatisfied,0.008752617,0
+neutral or dissatisfied,neutral or dissatisfied,0.07428906,0
+neutral or dissatisfied,neutral or dissatisfied,0.09646318,0
+satisfied,satisfied,0.9269564,1
+satisfied,satisfied,0.9667499,1
+neutral or dissatisfied,satisfied,0.7820758,1
+satisfied,satisfied,0.9971251,1
+satisfied,satisfied,0.9479058,1
+satisfied,satisfied,0.9995431,1
+neutral or dissatisfied,neutral or dissatisfied,0.2150126,0
+neutral or dissatisfied,neutral or dissatisfied,0.0027510135,0
+satisfied,satisfied,0.46679923,1
+neutral or dissatisfied,neutral or dissatisfied,0.00085199816,0
+satisfied,satisfied,0.99680835,1
+neutral or dissatisfied,neutral or dissatisfied,0.0014988162,0
+neutral or dissatisfied,neutral or dissatisfied,0.0005798535,0
+satisfied,satisfied,0.8563481,1
+neutral or dissatisfied,neutral or dissatisfied,0.035227913,0
+neutral or dissatisfied,neutral or dissatisfied,0.021565448,0
+neutral or dissatisfied,neutral or dissatisfied,0.041660346,0
+satisfied,satisfied,0.9682863,1
+satisfied,satisfied,0.9985037,1
+satisfied,satisfied,0.80446905,1
+satisfied,satisfied,0.95509565,1
+neutral or dissatisfied,neutral or dissatisfied,0.014573522,0
+satisfied,satisfied,0.9985391,1
+neutral or dissatisfied,neutral or dissatisfied,0.0058512865,0
+satisfied,satisfied,0.9986106,1
+satisfied,satisfied,0.99825853,1
+neutral or dissatisfied,neutral or dissatisfied,0.0014506563,0
+neutral or dissatisfied,satisfied,0.31094673,1
+neutral or dissatisfied,satisfied,0.56588835,1
+satisfied,satisfied,0.9933314,1
+neutral or dissatisfied,neutral or dissatisfied,0.0004966053,0
+satisfied,satisfied,0.9971341,1
+neutral or dissatisfied,neutral or dissatisfied,0.008183969,0
+satisfied,satisfied,0.9932453,1
+satisfied,satisfied,0.99095166,1
+satisfied,satisfied,0.99439114,1
+neutral or dissatisfied,neutral or dissatisfied,0.05691023,0
+satisfied,neutral or dissatisfied,0.16217615,0
+satisfied,satisfied,0.999959,1
+satisfied,satisfied,0.9496109,1
+satisfied,neutral or dissatisfied,0.10810922,0
+neutral or dissatisfied,satisfied,0.26916254,1
+satisfied,satisfied,0.996825,1
+satisfied,satisfied,0.98568857,1
+satisfied,satisfied,0.93713987,1
+neutral or dissatisfied,neutral or dissatisfied,0.012408671,0
+neutral or dissatisfied,neutral or dissatisfied,0.0074202875,0
+satisfied,satisfied,0.99929535,1
+neutral or dissatisfied,neutral or dissatisfied,0.008648282,0
+neutral or dissatisfied,neutral or dissatisfied,0.018258033,0
+neutral or dissatisfied,neutral or dissatisfied,0.018112391,0
+satisfied,satisfied,0.9991235,1
+satisfied,satisfied,0.8578413,1
+satisfied,satisfied,0.99706984,1
+satisfied,satisfied,0.9968952,1
+neutral or dissatisfied,neutral or dissatisfied,0.0049774237,0
+neutral or dissatisfied,neutral or dissatisfied,0.0013650722,0
+neutral or dissatisfied,neutral or dissatisfied,0.00013003492,0
+satisfied,satisfied,0.9975871,1
+neutral or dissatisfied,neutral or dissatisfied,0.042481266,0
+neutral or dissatisfied,neutral or dissatisfied,0.0003530996,0
+satisfied,satisfied,0.81031555,1
+neutral or dissatisfied,neutral or dissatisfied,0.0030994257,0
+neutral or dissatisfied,satisfied,0.684975,1
+neutral or dissatisfied,neutral or dissatisfied,0.0063974196,0
+satisfied,satisfied,0.5147976,1
+satisfied,satisfied,0.99970156,1
+satisfied,satisfied,0.5648807,1
+neutral or dissatisfied,neutral or dissatisfied,0.0039600465,0
+satisfied,satisfied,0.99981433,1
+satisfied,satisfied,0.7368655,1
+satisfied,satisfied,0.9995024,1
+neutral or dissatisfied,neutral or dissatisfied,0.03420467,0
+neutral or dissatisfied,satisfied,0.43142393,1
+satisfied,satisfied,0.9852962,1
+satisfied,satisfied,0.9966768,1
+satisfied,satisfied,0.95961416,1
+neutral or dissatisfied,neutral or dissatisfied,0.004797787,0
+neutral or dissatisfied,neutral or dissatisfied,0.020624876,0
+neutral or dissatisfied,neutral or dissatisfied,0.00079138257,0
+satisfied,satisfied,0.99899226,1
+neutral or dissatisfied,neutral or dissatisfied,0.00868829,0
+neutral or dissatisfied,neutral or dissatisfied,0.00029997592,0
+satisfied,satisfied,0.9837194,1
+neutral or dissatisfied,neutral or dissatisfied,0.008559334,0
+satisfied,satisfied,0.9997893,1
+satisfied,satisfied,0.9993075,1
+neutral or dissatisfied,neutral or dissatisfied,0.0022275024,0
+neutral or dissatisfied,neutral or dissatisfied,0.02450578,0
+neutral or dissatisfied,neutral or dissatisfied,0.0013085558,0
+neutral or dissatisfied,neutral or dissatisfied,0.0011970624,0
+satisfied,satisfied,0.9969528,1
+neutral or dissatisfied,neutral or dissatisfied,0.003386238,0
+neutral or dissatisfied,neutral or dissatisfied,0.12953675,0
+neutral or dissatisfied,neutral or dissatisfied,0.0031093839,0
+neutral or dissatisfied,neutral or dissatisfied,0.19326727,0
+satisfied,satisfied,0.902406,1
+neutral or dissatisfied,neutral or dissatisfied,0.00039334362,0
+satisfied,satisfied,0.9993755,1
+neutral or dissatisfied,neutral or dissatisfied,0.004577374,0
+satisfied,satisfied,0.999668,1
+neutral or dissatisfied,neutral or dissatisfied,0.10021867,0
+neutral or dissatisfied,neutral or dissatisfied,0.16120452,0
+neutral or dissatisfied,neutral or dissatisfied,0.00188514,0
+satisfied,neutral or dissatisfied,0.044010382,0
+satisfied,satisfied,0.99734014,1
+neutral or dissatisfied,neutral or dissatisfied,0.0004022898,0
+neutral or dissatisfied,neutral or dissatisfied,0.0006695342,0
+satisfied,satisfied,0.9997607,1
+neutral or dissatisfied,neutral or dissatisfied,0.07775989,0
+satisfied,neutral or dissatisfied,0.2101028,0
+neutral or dissatisfied,neutral or dissatisfied,0.0003007554,0
+neutral or dissatisfied,neutral or dissatisfied,0.12910406,0
+satisfied,satisfied,0.97571325,1
+satisfied,satisfied,0.31457517,1
+satisfied,satisfied,0.69661653,1
+neutral or dissatisfied,neutral or dissatisfied,0.21424235,0
+satisfied,satisfied,0.9956743,1
+neutral or dissatisfied,neutral or dissatisfied,0.0022212204,0
+satisfied,satisfied,0.9998574,1
+satisfied,satisfied,0.9998779,1
+satisfied,satisfied,0.99911076,1
+neutral or dissatisfied,neutral or dissatisfied,0.001993735,0
+satisfied,satisfied,0.99948585,1
+satisfied,satisfied,0.99800533,1
+neutral or dissatisfied,neutral or dissatisfied,0.116000466,0
+neutral or dissatisfied,neutral or dissatisfied,0.1367408,0
+satisfied,satisfied,0.99480116,1
+satisfied,satisfied,0.8133007,1
+neutral or dissatisfied,neutral or dissatisfied,0.078759275,0
+neutral or dissatisfied,neutral or dissatisfied,0.00390934,0
+neutral or dissatisfied,satisfied,0.45727524,1
+neutral or dissatisfied,neutral or dissatisfied,0.0020054288,0
+neutral or dissatisfied,satisfied,0.7858736,1
+neutral or dissatisfied,neutral or dissatisfied,0.0002909609,0
+neutral or dissatisfied,neutral or dissatisfied,7.234059e-05,0
+neutral or dissatisfied,neutral or dissatisfied,0.00856671,0
+neutral or dissatisfied,neutral or dissatisfied,0.027151134,0
+neutral or dissatisfied,neutral or dissatisfied,0.059917532,0
+neutral or dissatisfied,neutral or dissatisfied,0.0009417112,0
+neutral or dissatisfied,neutral or dissatisfied,0.0076956507,0
+neutral or dissatisfied,neutral or dissatisfied,0.0109992195,0
+neutral or dissatisfied,neutral or dissatisfied,0.008802414,0
+satisfied,satisfied,0.99790406,1
+satisfied,satisfied,0.98267543,1
+satisfied,satisfied,0.9997868,1
+neutral or dissatisfied,neutral or dissatisfied,0.14681062,0
+neutral or dissatisfied,neutral or dissatisfied,0.0112180095,0
+neutral or dissatisfied,neutral or dissatisfied,0.0630094,0
+neutral or dissatisfied,neutral or dissatisfied,0.0039146524,0
+neutral or dissatisfied,neutral or dissatisfied,0.08179454,0
+satisfied,satisfied,0.9992194,1
+satisfied,satisfied,0.9954661,1
+satisfied,satisfied,0.9955766,1
+neutral or dissatisfied,neutral or dissatisfied,0.03322542,0
+neutral or dissatisfied,neutral or dissatisfied,0.010447462,0
+satisfied,neutral or dissatisfied,0.021421906,0
+satisfied,satisfied,0.99759954,1
+neutral or dissatisfied,neutral or dissatisfied,0.10254674,0
+satisfied,satisfied,0.9975304,1
+satisfied,satisfied,0.99937314,1
+neutral or dissatisfied,neutral or dissatisfied,0.0007256748,0
+neutral or dissatisfied,neutral or dissatisfied,0.00063706096,0
+neutral or dissatisfied,neutral or dissatisfied,0.015304846,0
+satisfied,satisfied,0.9977582,1
+satisfied,satisfied,0.9982268,1
+satisfied,satisfied,0.99803275,1
+satisfied,satisfied,0.77100384,1
+neutral or dissatisfied,neutral or dissatisfied,0.00070579356,0
+neutral or dissatisfied,satisfied,0.28145808,1
+neutral or dissatisfied,neutral or dissatisfied,0.0020655221,0
+neutral or dissatisfied,neutral or dissatisfied,0.027513666,0
+satisfied,satisfied,0.99934906,1
+neutral or dissatisfied,neutral or dissatisfied,0.0027293714,0
+neutral or dissatisfied,neutral or dissatisfied,0.0031585898,0
+satisfied,satisfied,0.99781406,1
+neutral or dissatisfied,neutral or dissatisfied,0.0002894505,0
+satisfied,neutral or dissatisfied,0.078318134,0
+neutral or dissatisfied,neutral or dissatisfied,0.00039164213,0
+satisfied,satisfied,0.38341984,1
+neutral or dissatisfied,neutral or dissatisfied,0.0782665,0
+satisfied,satisfied,0.99854374,1
+satisfied,satisfied,0.503925,1
+neutral or dissatisfied,neutral or dissatisfied,0.005338727,0
+neutral or dissatisfied,neutral or dissatisfied,0.00026925598,0
+neutral or dissatisfied,neutral or dissatisfied,0.079105265,0
+neutral or dissatisfied,neutral or dissatisfied,0.0068406956,0
+neutral or dissatisfied,neutral or dissatisfied,0.0033040266,0
+satisfied,satisfied,0.9301197,1
+neutral or dissatisfied,neutral or dissatisfied,0.0021870264,0
+satisfied,satisfied,0.3318908,1
+satisfied,satisfied,0.9976804,1
+neutral or dissatisfied,neutral or dissatisfied,0.08733419,0
+satisfied,satisfied,0.9994342,1
+neutral or dissatisfied,neutral or dissatisfied,0.0050569023,0
+satisfied,satisfied,0.8901363,1
+neutral or dissatisfied,neutral or dissatisfied,0.0005284608,0
+satisfied,satisfied,0.97624207,1
+satisfied,satisfied,0.9974553,1
+neutral or dissatisfied,neutral or dissatisfied,0.03468089,0
+satisfied,satisfied,0.9971089,1
+satisfied,satisfied,0.99477357,1
+neutral or dissatisfied,neutral or dissatisfied,0.047390096,0
+satisfied,satisfied,0.47185186,1
+satisfied,satisfied,0.689756,1
+neutral or dissatisfied,neutral or dissatisfied,0.005777824,0
+satisfied,satisfied,0.9919226,1
+satisfied,satisfied,0.9940779,1
+satisfied,satisfied,0.8296804,1
+neutral or dissatisfied,neutral or dissatisfied,0.0018644895,0
+neutral or dissatisfied,neutral or dissatisfied,0.0052290377,0
+satisfied,satisfied,0.9497824,1
+neutral or dissatisfied,neutral or dissatisfied,0.007870464,0
+neutral or dissatisfied,neutral or dissatisfied,0.000981306,0
+satisfied,satisfied,0.99719113,1
+neutral or dissatisfied,neutral or dissatisfied,0.11862943,0
+neutral or dissatisfied,neutral or dissatisfied,0.0011022341,0
+neutral or dissatisfied,neutral or dissatisfied,0.0051623187,0
+satisfied,satisfied,0.9584989,1
+satisfied,satisfied,0.6170216,1
+neutral or dissatisfied,neutral or dissatisfied,0.00013968522,0
+satisfied,satisfied,0.79763615,1
+satisfied,satisfied,0.999845,1
+satisfied,neutral or dissatisfied,0.07692367,0
+satisfied,satisfied,0.99949014,1
+satisfied,satisfied,0.99641705,1
+neutral or dissatisfied,satisfied,0.3592007,1
+satisfied,satisfied,0.996099,1
+satisfied,satisfied,0.99468803,1
+neutral or dissatisfied,neutral or dissatisfied,0.0025154601,0
+satisfied,satisfied,0.9983864,1
+neutral or dissatisfied,neutral or dissatisfied,0.0015797986,0
+neutral or dissatisfied,neutral or dissatisfied,0.07709059,0
+neutral or dissatisfied,neutral or dissatisfied,0.0033765994,0
+satisfied,satisfied,0.99063104,1
+satisfied,satisfied,0.9992054,1
+neutral or dissatisfied,neutral or dissatisfied,0.01822746,0
+satisfied,satisfied,0.9996439,1
+neutral or dissatisfied,satisfied,0.38140175,1
+neutral or dissatisfied,neutral or dissatisfied,0.0014660311,0
+satisfied,satisfied,0.9503981,1
+neutral or dissatisfied,neutral or dissatisfied,0.0006872257,0
+satisfied,satisfied,0.26167175,1
+satisfied,satisfied,0.99580634,1
+neutral or dissatisfied,neutral or dissatisfied,0.0021667515,0
+neutral or dissatisfied,neutral or dissatisfied,0.0038056893,0
+neutral or dissatisfied,neutral or dissatisfied,0.0006530079,0
+neutral or dissatisfied,neutral or dissatisfied,0.004185641,0
+neutral or dissatisfied,neutral or dissatisfied,0.0003845638,0
+satisfied,satisfied,0.92642,1
+neutral or dissatisfied,neutral or dissatisfied,0.008203887,0
+neutral or dissatisfied,neutral or dissatisfied,0.0050407965,0
+satisfied,satisfied,0.9884744,1
+satisfied,satisfied,0.99801815,1
+neutral or dissatisfied,neutral or dissatisfied,0.009600589,0
+satisfied,satisfied,0.9990213,1
+satisfied,satisfied,0.55931956,1
+neutral or dissatisfied,neutral or dissatisfied,0.0015119965,0
+neutral or dissatisfied,neutral or dissatisfied,0.0013364097,0
+neutral or dissatisfied,neutral or dissatisfied,0.040441614,0
+satisfied,satisfied,0.99642736,1
+neutral or dissatisfied,neutral or dissatisfied,0.0001474419,0
+satisfied,satisfied,0.9940719,1
+neutral or dissatisfied,neutral or dissatisfied,0.00045082992,0
+neutral or dissatisfied,satisfied,0.44821063,1
+satisfied,satisfied,0.8572091,1
+neutral or dissatisfied,neutral or dissatisfied,0.00016942142,0
+neutral or dissatisfied,neutral or dissatisfied,0.14969788,0
+neutral or dissatisfied,neutral or dissatisfied,0.0048949034,0
+satisfied,satisfied,0.89934045,1
+satisfied,neutral or dissatisfied,0.0061565945,0
+satisfied,satisfied,0.999252,1
+satisfied,satisfied,0.9997836,1
+neutral or dissatisfied,neutral or dissatisfied,0.0018879655,0
+neutral or dissatisfied,neutral or dissatisfied,0.06638807,0
+neutral or dissatisfied,neutral or dissatisfied,0.009062687,0
+satisfied,satisfied,0.9858155,1
+satisfied,satisfied,0.9975756,1
+neutral or dissatisfied,neutral or dissatisfied,0.044562176,0
+neutral or dissatisfied,neutral or dissatisfied,0.00027108457,0
+neutral or dissatisfied,neutral or dissatisfied,0.013611114,0
+satisfied,satisfied,0.99698824,1
+neutral or dissatisfied,neutral or dissatisfied,0.0016408405,0
+satisfied,satisfied,0.997012,1
+satisfied,satisfied,0.9965927,1
+satisfied,satisfied,0.9522769,1
+neutral or dissatisfied,satisfied,0.2644826,1
+neutral or dissatisfied,neutral or dissatisfied,0.08431479,0
+neutral or dissatisfied,neutral or dissatisfied,0.027169101,0
+neutral or dissatisfied,neutral or dissatisfied,0.04467689,0
+satisfied,satisfied,0.99425125,1
+neutral or dissatisfied,neutral or dissatisfied,0.22657408,0
+satisfied,satisfied,0.99921584,1
+satisfied,satisfied,0.993568,1
+neutral or dissatisfied,neutral or dissatisfied,0.005736137,0
+satisfied,satisfied,0.98703533,1
+satisfied,satisfied,0.8989357,1
+neutral or dissatisfied,neutral or dissatisfied,0.12366293,0
+satisfied,satisfied,0.999342,1
+neutral or dissatisfied,neutral or dissatisfied,0.23474135,0
+neutral or dissatisfied,neutral or dissatisfied,0.117832184,0
+neutral or dissatisfied,neutral or dissatisfied,0.00348782,0
+satisfied,satisfied,0.9232862,1
+neutral or dissatisfied,neutral or dissatisfied,0.014012497,0
+satisfied,satisfied,0.9994337,1
+neutral or dissatisfied,neutral or dissatisfied,0.024483372,0
+neutral or dissatisfied,neutral or dissatisfied,0.011003888,0
+satisfied,satisfied,0.9983683,1
+neutral or dissatisfied,neutral or dissatisfied,0.0011615144,0
+neutral or dissatisfied,neutral or dissatisfied,0.0021711704,0
+satisfied,satisfied,0.9997392,1
+satisfied,satisfied,0.72715884,1
+satisfied,satisfied,0.993768,1
+neutral or dissatisfied,neutral or dissatisfied,0.0012800735,0
+neutral or dissatisfied,neutral or dissatisfied,0.03980981,0
+neutral or dissatisfied,neutral or dissatisfied,0.0015623367,0
+neutral or dissatisfied,neutral or dissatisfied,0.01277126,0
+neutral or dissatisfied,neutral or dissatisfied,0.000518259,0
+neutral or dissatisfied,neutral or dissatisfied,0.029020287,0
+neutral or dissatisfied,neutral or dissatisfied,0.049940966,0
+satisfied,satisfied,0.9442171,1
+neutral or dissatisfied,neutral or dissatisfied,0.010258387,0
+neutral or dissatisfied,neutral or dissatisfied,0.17356138,0
+neutral or dissatisfied,neutral or dissatisfied,0.00061466877,0
+neutral or dissatisfied,satisfied,0.9107877,1
+neutral or dissatisfied,neutral or dissatisfied,0.015762197,0
+neutral or dissatisfied,neutral or dissatisfied,0.007892018,0
+neutral or dissatisfied,neutral or dissatisfied,0.013482209,0
+satisfied,neutral or dissatisfied,0.0108343605,0
+satisfied,satisfied,0.9765505,1
+neutral or dissatisfied,neutral or dissatisfied,0.006637402,0
+neutral or dissatisfied,neutral or dissatisfied,0.014845542,0
+satisfied,satisfied,0.68039846,1
+satisfied,satisfied,0.93229294,1
+neutral or dissatisfied,neutral or dissatisfied,0.0010526448,0
+neutral or dissatisfied,neutral or dissatisfied,0.0013494715,0
+satisfied,satisfied,0.9987306,1
+satisfied,satisfied,0.8714633,1
+neutral or dissatisfied,neutral or dissatisfied,0.008344099,0
+satisfied,satisfied,0.9979291,1
+satisfied,satisfied,0.8235569,1
+neutral or dissatisfied,neutral or dissatisfied,0.011300374,0
+satisfied,satisfied,0.97661,1
+neutral or dissatisfied,neutral or dissatisfied,0.006428057,0
+satisfied,satisfied,0.96820873,1
+satisfied,satisfied,0.9971023,1
+satisfied,satisfied,0.99974924,1
+satisfied,satisfied,0.9880774,1
+satisfied,satisfied,0.9519219,1
+neutral or dissatisfied,neutral or dissatisfied,0.005550188,0
+neutral or dissatisfied,neutral or dissatisfied,0.0013642671,0
+neutral or dissatisfied,neutral or dissatisfied,0.001035883,0
+satisfied,satisfied,0.4440012,1
+satisfied,satisfied,0.9994955,1
+satisfied,satisfied,0.9992441,1
+neutral or dissatisfied,neutral or dissatisfied,0.0058607026,0
+neutral or dissatisfied,neutral or dissatisfied,0.0006344682,0
+neutral or dissatisfied,neutral or dissatisfied,0.22813292,0
+satisfied,satisfied,0.99926203,1
+satisfied,satisfied,0.99165475,1
+neutral or dissatisfied,neutral or dissatisfied,0.003487921,0
+neutral or dissatisfied,neutral or dissatisfied,0.056965534,0
+neutral or dissatisfied,neutral or dissatisfied,0.0048006587,0
+satisfied,satisfied,0.9934291,1
+satisfied,satisfied,0.9975775,1
+neutral or dissatisfied,neutral or dissatisfied,0.12721711,0
+satisfied,satisfied,0.9961211,1
+neutral or dissatisfied,neutral or dissatisfied,0.031073242,0
+satisfied,satisfied,0.98037165,1
+neutral or dissatisfied,satisfied,0.26423383,1
+neutral or dissatisfied,neutral or dissatisfied,0.20364174,0
+neutral or dissatisfied,neutral or dissatisfied,0.00959544,0
+neutral or dissatisfied,neutral or dissatisfied,0.014225655,0
+neutral or dissatisfied,neutral or dissatisfied,0.002725742,0
+satisfied,satisfied,0.9617509,1
+satisfied,satisfied,0.9904323,1
+neutral or dissatisfied,neutral or dissatisfied,0.06479673,0
+neutral or dissatisfied,neutral or dissatisfied,0.059045505,0
+satisfied,satisfied,0.99816316,1
+neutral or dissatisfied,neutral or dissatisfied,0.042760037,0
+satisfied,satisfied,0.99248356,1
+neutral or dissatisfied,neutral or dissatisfied,0.0021175889,0
+neutral or dissatisfied,neutral or dissatisfied,0.0009791474,0
+satisfied,satisfied,0.9988858,1
+neutral or dissatisfied,neutral or dissatisfied,0.00050132646,0
+satisfied,satisfied,0.99995816,1
+neutral or dissatisfied,neutral or dissatisfied,0.0024546727,0
+satisfied,satisfied,0.51941895,1
+neutral or dissatisfied,neutral or dissatisfied,0.09999053,0
+satisfied,satisfied,0.9977658,1
+satisfied,satisfied,0.9994118,1
+satisfied,satisfied,0.9999124,1
+neutral or dissatisfied,neutral or dissatisfied,0.06651237,0
+satisfied,satisfied,0.54747385,1
+satisfied,neutral or dissatisfied,0.07014614,0
+neutral or dissatisfied,neutral or dissatisfied,0.0028761346,0
+neutral or dissatisfied,satisfied,0.75505245,1
+neutral or dissatisfied,neutral or dissatisfied,0.019061368,0
+neutral or dissatisfied,satisfied,0.90657294,1
+satisfied,satisfied,0.9994204,1
+neutral or dissatisfied,neutral or dissatisfied,0.021556525,0
+neutral or dissatisfied,neutral or dissatisfied,0.0026236323,0
+satisfied,satisfied,0.99504834,1
+satisfied,satisfied,0.99703836,1
+neutral or dissatisfied,neutral or dissatisfied,0.12695293,0
+satisfied,satisfied,0.9959066,1
+neutral or dissatisfied,neutral or dissatisfied,0.0047358545,0
+neutral or dissatisfied,neutral or dissatisfied,0.004875827,0
+satisfied,satisfied,0.7695653,1
+satisfied,satisfied,0.99973804,1
+satisfied,satisfied,0.9998605,1
+satisfied,satisfied,0.99968386,1
+satisfied,satisfied,0.99988365,1
+neutral or dissatisfied,neutral or dissatisfied,0.047295243,0
+neutral or dissatisfied,satisfied,0.7642682,1
+neutral or dissatisfied,neutral or dissatisfied,0.0012947368,0
+satisfied,satisfied,0.9981152,1
+satisfied,satisfied,0.9968534,1
+neutral or dissatisfied,neutral or dissatisfied,0.0037082783,0
+neutral or dissatisfied,neutral or dissatisfied,0.0032908877,0
+neutral or dissatisfied,neutral or dissatisfied,0.0012569567,0
+neutral or dissatisfied,neutral or dissatisfied,0.011407246,0
+satisfied,satisfied,0.92961866,1
+neutral or dissatisfied,neutral or dissatisfied,0.018193832,0
+neutral or dissatisfied,neutral or dissatisfied,0.0008878214,0
+satisfied,satisfied,0.9984012,1
+satisfied,satisfied,0.9974189,1
+satisfied,satisfied,0.89021516,1
+satisfied,satisfied,0.34292325,1
+neutral or dissatisfied,satisfied,0.26394585,1
+satisfied,satisfied,0.999731,1
+satisfied,satisfied,0.99974185,1
+neutral or dissatisfied,neutral or dissatisfied,0.0014355129,0
+neutral or dissatisfied,neutral or dissatisfied,0.09533735,0
+satisfied,satisfied,0.85826886,1
+satisfied,satisfied,0.99775046,1
+satisfied,satisfied,0.99871576,1
+satisfied,satisfied,0.997474,1
+neutral or dissatisfied,neutral or dissatisfied,0.0003489133,0
+neutral or dissatisfied,neutral or dissatisfied,0.001843914,0
+neutral or dissatisfied,neutral or dissatisfied,0.033148114,0
+neutral or dissatisfied,satisfied,0.5643179,1
+neutral or dissatisfied,neutral or dissatisfied,0.004638157,0
+satisfied,satisfied,0.928638,1
+neutral or dissatisfied,neutral or dissatisfied,0.004669285,0
+neutral or dissatisfied,neutral or dissatisfied,0.043223407,0
+neutral or dissatisfied,neutral or dissatisfied,0.084420875,0
+neutral or dissatisfied,neutral or dissatisfied,0.019471947,0
+satisfied,satisfied,0.88256276,1
+satisfied,satisfied,0.99987364,1
+satisfied,satisfied,0.9957207,1
+satisfied,satisfied,0.99786085,1
+satisfied,satisfied,0.99985135,1
+neutral or dissatisfied,neutral or dissatisfied,0.0008170732,0
+satisfied,satisfied,0.9992318,1
+neutral or dissatisfied,satisfied,0.86135954,1
+neutral or dissatisfied,neutral or dissatisfied,0.02526586,0
+satisfied,neutral or dissatisfied,0.12552312,0
+satisfied,satisfied,0.99571204,1
+neutral or dissatisfied,neutral or dissatisfied,0.00090253225,0
+satisfied,satisfied,0.9728141,1
+satisfied,satisfied,0.9990662,1
+neutral or dissatisfied,neutral or dissatisfied,0.0038172728,0
+satisfied,satisfied,0.99972945,1
+neutral or dissatisfied,neutral or dissatisfied,0.043202784,0
+neutral or dissatisfied,neutral or dissatisfied,0.0006971283,0
+neutral or dissatisfied,neutral or dissatisfied,0.023739895,0
+satisfied,satisfied,0.98110616,1
+neutral or dissatisfied,neutral or dissatisfied,0.067497335,0
+satisfied,satisfied,0.9877989,1
+satisfied,satisfied,0.9824995,1
+neutral or dissatisfied,neutral or dissatisfied,0.0018813486,0
+satisfied,satisfied,0.5932181,1
+neutral or dissatisfied,neutral or dissatisfied,0.010085025,0
+satisfied,satisfied,0.9987404,1
+neutral or dissatisfied,neutral or dissatisfied,0.029274862,0
+satisfied,satisfied,0.99449205,1
+satisfied,satisfied,0.5259687,1
+neutral or dissatisfied,neutral or dissatisfied,0.012620237,0
+satisfied,satisfied,0.9982091,1
+satisfied,satisfied,0.9996006,1
+neutral or dissatisfied,neutral or dissatisfied,0.019859536,0
+satisfied,satisfied,0.9997876,1
+neutral or dissatisfied,neutral or dissatisfied,0.005616778,0
+satisfied,satisfied,0.9990876,1
+neutral or dissatisfied,neutral or dissatisfied,0.0025571585,0
+neutral or dissatisfied,neutral or dissatisfied,0.006443778,0
+satisfied,satisfied,0.9952827,1
+satisfied,satisfied,0.9993311,1
+neutral or dissatisfied,neutral or dissatisfied,0.0048466837,0
+neutral or dissatisfied,neutral or dissatisfied,0.0012029966,0
+satisfied,satisfied,0.75074685,1
+neutral or dissatisfied,neutral or dissatisfied,0.012381556,0
+neutral or dissatisfied,neutral or dissatisfied,0.00022983627,0
+satisfied,satisfied,0.99691594,1
+neutral or dissatisfied,neutral or dissatisfied,0.0013561092,0
+neutral or dissatisfied,satisfied,0.43575436,1
+satisfied,satisfied,0.31206357,1
+satisfied,satisfied,0.9998599,1
+satisfied,satisfied,0.92850417,1
+neutral or dissatisfied,neutral or dissatisfied,0.03465855,0
+satisfied,satisfied,0.40540594,1
+satisfied,satisfied,0.97345555,1
+satisfied,satisfied,0.9997416,1
+neutral or dissatisfied,neutral or dissatisfied,0.01218672,0
+neutral or dissatisfied,neutral or dissatisfied,0.04483656,0
+neutral or dissatisfied,neutral or dissatisfied,0.010841522,0
+neutral or dissatisfied,neutral or dissatisfied,5.7789755e-05,0
+neutral or dissatisfied,neutral or dissatisfied,0.016734375,0
+neutral or dissatisfied,neutral or dissatisfied,0.040410448,0
+satisfied,satisfied,0.99977,1
+neutral or dissatisfied,neutral or dissatisfied,0.0006607106,0
+neutral or dissatisfied,neutral or dissatisfied,0.004548674,0
+neutral or dissatisfied,neutral or dissatisfied,0.00022967154,0
+neutral or dissatisfied,neutral or dissatisfied,0.021633228,0
+neutral or dissatisfied,neutral or dissatisfied,0.0010516725,0
+satisfied,satisfied,0.9994454,1
+neutral or dissatisfied,neutral or dissatisfied,0.022601385,0
+neutral or dissatisfied,neutral or dissatisfied,0.00029321515,0
+neutral or dissatisfied,neutral or dissatisfied,0.08174806,0
+neutral or dissatisfied,neutral or dissatisfied,0.030870382,0
+satisfied,satisfied,0.9992818,1
+satisfied,satisfied,0.9994404,1
+neutral or dissatisfied,neutral or dissatisfied,0.07946364,0
+neutral or dissatisfied,neutral or dissatisfied,0.17605604,0
+satisfied,satisfied,0.5356006,1
+neutral or dissatisfied,neutral or dissatisfied,0.014296603,0
+neutral or dissatisfied,neutral or dissatisfied,0.032353085,0
+neutral or dissatisfied,neutral or dissatisfied,0.007020217,0
+neutral or dissatisfied,neutral or dissatisfied,0.05060832,0
+neutral or dissatisfied,neutral or dissatisfied,0.0012926051,0
+neutral or dissatisfied,neutral or dissatisfied,0.008312173,0
+satisfied,satisfied,0.999047,1
+neutral or dissatisfied,satisfied,0.73273283,1
+neutral or dissatisfied,satisfied,0.27221453,1
+satisfied,satisfied,0.93017256,1
+neutral or dissatisfied,satisfied,0.3030997,1
+neutral or dissatisfied,neutral or dissatisfied,0.0003562146,0
+neutral or dissatisfied,neutral or dissatisfied,0.02786771,0
+neutral or dissatisfied,neutral or dissatisfied,0.0037632913,0
+neutral or dissatisfied,neutral or dissatisfied,0.09404397,0
+satisfied,satisfied,0.44060093,1
+neutral or dissatisfied,neutral or dissatisfied,0.023529438,0
+neutral or dissatisfied,neutral or dissatisfied,0.00084346166,0
+neutral or dissatisfied,neutral or dissatisfied,0.004566337,0
+satisfied,satisfied,0.9998404,1
+satisfied,satisfied,0.95889026,1
+satisfied,satisfied,0.8126866,1
+neutral or dissatisfied,neutral or dissatisfied,0.007232767,0
+neutral or dissatisfied,neutral or dissatisfied,0.012713739,0
+satisfied,satisfied,0.76455677,1
+neutral or dissatisfied,neutral or dissatisfied,0.007879133,0
+neutral or dissatisfied,neutral or dissatisfied,0.00017983447,0
+neutral or dissatisfied,neutral or dissatisfied,0.0664668,0
+satisfied,satisfied,0.9031276,1
+satisfied,satisfied,0.8440725,1
+satisfied,satisfied,0.92714554,1
+satisfied,satisfied,0.9366571,1
+neutral or dissatisfied,neutral or dissatisfied,0.015562746,0
+satisfied,satisfied,0.99996626,1
+satisfied,satisfied,0.99942374,1
+neutral or dissatisfied,neutral or dissatisfied,0.0018048837,0
+satisfied,satisfied,0.9955564,1
+neutral or dissatisfied,neutral or dissatisfied,0.18818368,0
+neutral or dissatisfied,neutral or dissatisfied,0.04134658,0
+satisfied,satisfied,0.99792516,1
+neutral or dissatisfied,satisfied,0.5606674,1
+satisfied,satisfied,0.99994206,1
+neutral or dissatisfied,neutral or dissatisfied,0.011256362,0
+neutral or dissatisfied,neutral or dissatisfied,0.0073409565,0
+satisfied,satisfied,0.99983144,1
+satisfied,satisfied,0.69790125,1
+satisfied,satisfied,0.99576133,1
+neutral or dissatisfied,neutral or dissatisfied,0.00030710647,0
+satisfied,satisfied,0.9930629,1
+neutral or dissatisfied,neutral or dissatisfied,0.0026035567,0
+neutral or dissatisfied,neutral or dissatisfied,0.13282657,0
+satisfied,satisfied,0.99939275,1
+neutral or dissatisfied,neutral or dissatisfied,0.00023850644,0
+neutral or dissatisfied,neutral or dissatisfied,0.0039980025,0
+satisfied,satisfied,0.99649733,1
+satisfied,satisfied,0.99815255,1
+neutral or dissatisfied,neutral or dissatisfied,0.00722776,0
+satisfied,satisfied,0.6927563,1
+satisfied,neutral or dissatisfied,0.2086057,0
+neutral or dissatisfied,neutral or dissatisfied,0.004823215,0
+neutral or dissatisfied,neutral or dissatisfied,0.0015798272,0
+neutral or dissatisfied,neutral or dissatisfied,0.0003878078,0
+neutral or dissatisfied,neutral or dissatisfied,0.0048207734,0
+neutral or dissatisfied,satisfied,0.98680204,1
+satisfied,satisfied,0.98142976,1
+satisfied,satisfied,0.9951389,1
+neutral or dissatisfied,neutral or dissatisfied,0.002987934,0
+neutral or dissatisfied,neutral or dissatisfied,0.010423649,0
+neutral or dissatisfied,neutral or dissatisfied,0.00041301496,0
+satisfied,satisfied,0.9919831,1
+satisfied,satisfied,0.9991548,1
+neutral or dissatisfied,neutral or dissatisfied,0.0013447476,0
+satisfied,satisfied,0.6023124,1
+neutral or dissatisfied,neutral or dissatisfied,0.07074297,0
+neutral or dissatisfied,neutral or dissatisfied,0.10378936,0
+satisfied,satisfied,0.3470935,1
+satisfied,satisfied,0.90613407,1
+satisfied,satisfied,0.7712618,1
+satisfied,satisfied,0.9899865,1
+satisfied,satisfied,0.59929353,1
+neutral or dissatisfied,neutral or dissatisfied,0.00053822796,0
+satisfied,satisfied,0.9981893,1
+satisfied,satisfied,0.979803,1
+satisfied,satisfied,0.8659114,1
+satisfied,satisfied,0.9995716,1
+satisfied,satisfied,0.99986553,1
+neutral or dissatisfied,neutral or dissatisfied,0.0779991,0
+neutral or dissatisfied,neutral or dissatisfied,0.0010675916,0
+satisfied,satisfied,0.7341852,1
+satisfied,satisfied,0.97828627,1
+neutral or dissatisfied,satisfied,0.24788369,1
+satisfied,satisfied,0.39496896,1
+neutral or dissatisfied,neutral or dissatisfied,0.0042836806,0
+neutral or dissatisfied,neutral or dissatisfied,0.0014329255,0
+neutral or dissatisfied,neutral or dissatisfied,0.01642955,0
+neutral or dissatisfied,satisfied,0.3741131,1
+neutral or dissatisfied,neutral or dissatisfied,0.0029743211,0
+neutral or dissatisfied,neutral or dissatisfied,0.005927449,0
+neutral or dissatisfied,neutral or dissatisfied,0.007953758,0
+neutral or dissatisfied,neutral or dissatisfied,0.091962814,0
+satisfied,satisfied,0.99700516,1
+neutral or dissatisfied,neutral or dissatisfied,0.0035245721,0
+neutral or dissatisfied,neutral or dissatisfied,0.0005298003,0
+satisfied,satisfied,0.9980617,1
+satisfied,satisfied,0.99867284,1
+neutral or dissatisfied,satisfied,0.9200689,1
+neutral or dissatisfied,neutral or dissatisfied,0.033212237,0
+neutral or dissatisfied,neutral or dissatisfied,0.0075616487,0
+satisfied,satisfied,0.9949097,1
+neutral or dissatisfied,neutral or dissatisfied,0.0030801233,0
+neutral or dissatisfied,satisfied,0.45970684,1
+neutral or dissatisfied,neutral or dissatisfied,0.0009951575,0
+satisfied,satisfied,0.99954385,1
+neutral or dissatisfied,neutral or dissatisfied,0.043996565,0
+neutral or dissatisfied,neutral or dissatisfied,0.02812482,0
+neutral or dissatisfied,neutral or dissatisfied,0.04669762,0
+neutral or dissatisfied,neutral or dissatisfied,0.0005960606,0
+satisfied,satisfied,0.9959955,1
+neutral or dissatisfied,neutral or dissatisfied,0.05334009,0
+satisfied,neutral or dissatisfied,0.02587989,0
+satisfied,satisfied,0.9981431,1
+satisfied,satisfied,0.9991725,1
+neutral or dissatisfied,satisfied,0.5353443,1
+neutral or dissatisfied,neutral or dissatisfied,0.026722139,0
+satisfied,satisfied,0.99705887,1
+neutral or dissatisfied,neutral or dissatisfied,0.057352286,0
+satisfied,satisfied,0.97261435,1
+satisfied,satisfied,0.31743142,1
+neutral or dissatisfied,neutral or dissatisfied,0.025443817,0
+neutral or dissatisfied,neutral or dissatisfied,0.005796357,0
+satisfied,satisfied,0.88931143,1
+neutral or dissatisfied,neutral or dissatisfied,0.02390919,0
+satisfied,satisfied,0.9842477,1
+satisfied,satisfied,0.39442474,1
+satisfied,satisfied,0.9980877,1
+satisfied,satisfied,0.99047524,1
+neutral or dissatisfied,neutral or dissatisfied,0.010255691,0
+neutral or dissatisfied,neutral or dissatisfied,0.044788573,0
+satisfied,satisfied,0.99954814,1
+neutral or dissatisfied,neutral or dissatisfied,0.028876234,0
+satisfied,satisfied,0.9946826,1
+neutral or dissatisfied,neutral or dissatisfied,0.028872024,0
+neutral or dissatisfied,neutral or dissatisfied,0.14777023,0
+satisfied,satisfied,0.9998814,1
+satisfied,satisfied,0.9996705,1
+satisfied,satisfied,0.868647,1
+satisfied,satisfied,0.95872545,1
+satisfied,satisfied,0.99483407,1
+neutral or dissatisfied,neutral or dissatisfied,0.034161482,0
+neutral or dissatisfied,neutral or dissatisfied,0.028931774,0
+satisfied,satisfied,0.99830925,1
+neutral or dissatisfied,neutral or dissatisfied,0.0011252799,0
+neutral or dissatisfied,neutral or dissatisfied,0.079643965,0
+satisfied,satisfied,0.9942285,1
+satisfied,satisfied,0.9982418,1
+neutral or dissatisfied,neutral or dissatisfied,0.048429936,0
+neutral or dissatisfied,neutral or dissatisfied,0.012413773,0
+neutral or dissatisfied,neutral or dissatisfied,0.0008275762,0
+satisfied,satisfied,0.9042697,1
+neutral or dissatisfied,neutral or dissatisfied,0.0021136024,0
+neutral or dissatisfied,neutral or dissatisfied,0.0018844411,0
+satisfied,satisfied,0.9994325,1
+neutral or dissatisfied,neutral or dissatisfied,0.0034580806,0
+satisfied,satisfied,0.9977621,1
+satisfied,satisfied,0.94435805,1
+satisfied,satisfied,0.994087,1
+neutral or dissatisfied,neutral or dissatisfied,0.0075061,0
+satisfied,satisfied,0.9997799,1
+neutral or dissatisfied,neutral or dissatisfied,0.0023446265,0
+neutral or dissatisfied,neutral or dissatisfied,0.0005444947,0
+neutral or dissatisfied,neutral or dissatisfied,0.024126234,0
+neutral or dissatisfied,neutral or dissatisfied,0.0041891527,0
+satisfied,satisfied,0.9988268,1
+neutral or dissatisfied,neutral or dissatisfied,0.0007429244,0
+satisfied,satisfied,0.99938583,1
+neutral or dissatisfied,neutral or dissatisfied,0.011485459,0
+neutral or dissatisfied,neutral or dissatisfied,0.006943114,0
+satisfied,satisfied,0.9998555,1
+satisfied,satisfied,0.9998147,1
+neutral or dissatisfied,neutral or dissatisfied,0.00016627644,0
+neutral or dissatisfied,neutral or dissatisfied,0.00062571093,0
+neutral or dissatisfied,neutral or dissatisfied,0.0005390196,0
+neutral or dissatisfied,neutral or dissatisfied,0.0035556515,0
+neutral or dissatisfied,neutral or dissatisfied,0.0016108421,0
+neutral or dissatisfied,neutral or dissatisfied,0.006802684,0
+satisfied,satisfied,0.8639177,1
+neutral or dissatisfied,neutral or dissatisfied,0.08562763,0
+satisfied,satisfied,0.8827829,1
+neutral or dissatisfied,neutral or dissatisfied,0.0918444,0
+neutral or dissatisfied,neutral or dissatisfied,0.031174807,0
+neutral or dissatisfied,neutral or dissatisfied,0.0049714665,0
+neutral or dissatisfied,neutral or dissatisfied,0.005460005,0
+neutral or dissatisfied,neutral or dissatisfied,0.015854316,0
+neutral or dissatisfied,neutral or dissatisfied,0.0021164254,0
+neutral or dissatisfied,neutral or dissatisfied,0.00042234137,0
+satisfied,satisfied,0.8777155,1
+neutral or dissatisfied,satisfied,0.25978845,1
+satisfied,satisfied,0.998579,1
+satisfied,satisfied,0.9865252,1
+neutral or dissatisfied,neutral or dissatisfied,0.030564018,0
+satisfied,satisfied,0.9648049,1
+satisfied,satisfied,0.9991248,1
+neutral or dissatisfied,neutral or dissatisfied,0.0019019754,0
+neutral or dissatisfied,neutral or dissatisfied,0.019034252,0

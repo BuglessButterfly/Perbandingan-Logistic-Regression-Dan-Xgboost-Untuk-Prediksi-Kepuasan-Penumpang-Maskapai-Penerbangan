@@ -1,0 +1,28 @@
+feature,coef,abs_coef,effect
+Type of Travel_Business travel,1.4783771536546533,1.4783771536546533,meningkatkan satisfied
+Type of Travel_Personal Travel,-1.4780845730662882,1.4780845730662882,menurunkan satisfied
+Customer Type_Loyal Customer,0.8819539955102779,0.8819539955102779,meningkatkan satisfied
+Customer Type_disloyal Customer,-0.8816614149219061,0.8816614149219061,menurunkan satisfied
+Arrival Delay in Minutes,-0.8593730033644104,0.8593730033644104,menurunkan satisfied
+Departure Delay in Minutes,0.6239569133957983,0.6239569133957983,meningkatkan satisfied
+Online boarding,0.5814128724005457,0.5814128724005457,meningkatkan satisfied
+On-board service,0.5320467343227955,0.5320467343227955,meningkatkan satisfied
+Inflight wifi service,0.47594534264335464,0.47594534264335464,meningkatkan satisfied
+Checkin service,0.45342819252050326,0.45342819252050326,meningkatkan satisfied
+Class_Business,0.4060202403030625,0.4060202403030625,meningkatkan satisfied
+Class_Eco,-0.3649983579615684,0.3649983579615684,menurunkan satisfied
+Baggage handling,0.31957094482266163,0.31957094482266163,meningkatkan satisfied
+Inflight entertainment,0.2671935999579084,0.2671935999579084,meningkatkan satisfied
+Leg room service,0.24203689541363307,0.24203689541363307,meningkatkan satisfied
+Gender_Male,0.20381115445094122,0.20381115445094122,meningkatkan satisfied
+Gender_Female,-0.2035185738625787,0.2035185738625787,menurunkan satisfied
+Cleanliness,0.1994129700645929,0.1994129700645929,meningkatkan satisfied
+Food and drink,-0.1708667055484584,0.1708667055484584,menurunkan satisfied
+Departure/Arrival time convenient,-0.15800345668242516,0.15800345668242516,menurunkan satisfied
+Ease of Online booking,-0.13088078329242342,0.13088078329242342,menurunkan satisfied
+Seat comfort,0.13045594373104538,0.13045594373104538,meningkatkan satisfied
+Inflight service,0.0416386449755512,0.0416386449755512,meningkatkan satisfied
+Class_Eco Plus,-0.04072930175313693,0.04072930175313693,menurunkan satisfied
+Flight Distance,0.026206548091310337,0.026206548091310337,meningkatkan satisfied
+Gate location,0.010356649664444982,0.010356649664444982,meningkatkan satisfied
+Age,-0.00621733912252181,0.00621733912252181,menurunkan satisfied
